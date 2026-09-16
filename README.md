@@ -1,0 +1,2 @@
+# inspiration_recording_tool
+我觉得一个音乐人真的很需要一个灵感记录器。我已经丢失了太多的灵感了。
